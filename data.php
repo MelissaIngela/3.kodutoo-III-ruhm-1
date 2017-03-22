@@ -1,5 +1,5 @@
 +<?php
-+	//ühendan sessiooniga 
++	 
 +	require("functions.php");
 +	
 +	require("Helper.class.php");
